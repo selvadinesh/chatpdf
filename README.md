@@ -45,6 +45,7 @@ Here the instructions to run LLM ChatBOT in Text mode:
   ```
   python3 text_app.py
   ```
+![image](https://github.com/selvadinesh/chatpdf/assets/6970641/19b4b6ab-714a-4a64-89e4-64b39eeb4bb1)
 
 
 
